@@ -8,7 +8,7 @@ I am especially interested in Java, backend/web development, and the fundamental
 
 - Improving my Java and object-oriented design skills
 - Building clearer client-server and REST API architectures
-- Practicing TypeScript web development with real data flows
+- Practicing real data flows with a Typescript web app
 - Learning machine learning basics through small, explainable projects
 - Writing code that is easier to test, document, and maintain
 
