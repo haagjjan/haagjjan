@@ -1,6 +1,7 @@
 # Hi, I'm Jan Haag
 
-I'm a Computer Science BSc student who enjoys building practical software and learning by turning ideas into working projects.
+I'm a Computer Science BSc student at Uni Basel.
+I enjoy building practical software and learning by turning ideas into working projects with actual users. 
 
 I am especially interested in Java, backend/web development, and the fundamentals of machine learning. This profile is a small portfolio of projects I have built during university, school, and personal learning.
 
@@ -8,9 +9,11 @@ I am especially interested in Java, backend/web development, and the fundamental
 
 - Improving my Java and object-oriented design skills
 - Building clearer client-server and REST API architectures
+- learning the depths and concepts of System Architecture
 - Practicing TypeScript web development with real data flows
 - Learning machine learning basics through small, explainable projects
 - Writing code that is easier to test, document, and maintain
+- Practicing information evaluation powered by small AI models
 
 ## Selected Projects
 
