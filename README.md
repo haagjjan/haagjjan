@@ -1,19 +1,18 @@
 # Hi, I'm Jan Haag
 
-I'm a Computer Science BSc student at Uni Basel.
-I enjoy building practical software and learning by turning ideas into working projects with actual users. 
+I'm a Computer Science BSc student at the Uni Basel. I enjoy building practical software and turning ideas into working projects with real users.
 
-I am especially interested in Java, backend/web development, and the fundamentals of machine learning. This profile is a small portfolio of projects I have built during university, school, and personal learning.
+My main interests are Java, backend and web development, system architecture, and applications of machine learning. This profile collects projects from university, school, and personal learning.
 
 ## Current Focus
 
 - Improving my Java and object-oriented design skills
-- Building clearer client-server and REST API architectures
-- learning the depths and concepts of System Architecture
-- Practicing real data flows with a Typescript web app
-- Learning machine learning basics through small, explainable projects
+- Designing clearer client-server systems and REST APIs
+- Building a stronger foundation in system architecture
+- Practicing real data flows in full-stack TypeScript applications
+- Learning machine learning through small, explainable projects
 - Writing code that is easier to test, document, and maintain
-- Practicing information evaluation powered by small AI models
+- Exploring information evaluation with small AI models
 
 ## Selected Projects
 
@@ -26,14 +25,14 @@ A Java multiplayer game built as a University of Basel programming project. Four
 
 ### [Gym Progress Tracker](https://github.com/haagjjan/gym-track)
 
-A workout tracking web app for logging strength sessions, reviewing workout history, importing/exporting CSV data, and visualizing progress over time.
+A full-stack workout tracking app for logging strength sessions, reviewing workout history, importing and exporting CSV data, and visualizing progress over time.
 
 **Tech / focus:** TypeScript, Next.js, Fastify, PostgreSQL, Docker Compose, pnpm, REST APIs  
 **What I learned:** Structuring a full-stack project, designing API and database boundaries, handling authentication, and building useful UI flows from requirements.
 
 ### [MNIST_DNN](https://github.com/haagjjan/MNIST_DNN)
 
-A cleaned-up archive of my Matura thesis project about handwritten digit recognition with a dense neural network trained on MNIST.
+A cleaned-up archive of my Matura thesis project on handwritten digit recognition with a dense neural network trained on MNIST.
 
 **Tech / focus:** Python, TensorFlow/Keras, NumPy, OpenCV, MNIST classification  
 **What I learned:** How a basic neural network is trained and evaluated, why preprocessing matters, and how model performance can change when real input differs from the training data.
