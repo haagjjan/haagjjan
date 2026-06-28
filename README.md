@@ -2,7 +2,7 @@
 
 I'm a Computer Science BSc student at the Uni Basel. I enjoy building practical software and turning ideas into working projects with real users.
 
-My main interests are Java, backend and web development, system architecture, and applications of machine learning. This profile collects projects from university, school, and personal learning.
+My main interests are Java, backend and web development, system architecture, and applications and theory of machine learning. This profile collects projects from university, school, and personal learning.
 
 ## Current Focus
 
