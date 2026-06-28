@@ -6,13 +6,13 @@ My main interests are Java, backend and web development, system architecture, an
 
 ## Current Focus
 
-- Improving my Java and object-oriented design skills
 - Designing clearer client-server systems and REST APIs
 - Building a stronger foundation in system architecture
 - Practicing real data flows in full-stack TypeScript applications
 - Learning machine learning through small, explainable projects
 - Writing code that is easier to test, document, and maintain
 - Exploring information evaluation with small AI models
+- Applying machine learning concepts for repetitive tasks
 
 ## Selected Projects
 
