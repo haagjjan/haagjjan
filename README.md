@@ -16,7 +16,7 @@ What I care about is building systems and then actually running them. Most of wh
 
 ### GymTrack — Full-Stack Strength Training Platform
 
-*Private repository — happy to walk through the code or architecture on request.*
+*Project in Operation  - app.gymtrack.ch - happy to walk through the code or architecture on request.*
 
 A workout logging and progression web app I built and operate solo, running in self-hosted production since February 2026. Roughly 38,000 lines of TypeScript, 612 commits, 18 architecture decision records.
 
