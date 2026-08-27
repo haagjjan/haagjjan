@@ -14,7 +14,7 @@ What I care about is building systems and then actually running them. Most of wh
 
 ## Selected Projects
 
-### GymTrack — Full-Stack Strength Training Platform
+### [GymTrack](https://github.com/haagjjan/gym-track) — Full-Stack Strength Training Platform
 
 *Project in Operation  - app.gymtrack.ch - happy to walk through the code or architecture on request.*
 
