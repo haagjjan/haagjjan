@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Basel. Most of my projects s
 
 ## Projects
 
-### GymTrack
+### [GymTrack](https://github.com/haagjjan/gym-track)
 
 A strength and hypertrophy training app that grew out of my own workouts. I built the web app and backend, and run it on my own servers. It has moved from a closed beta to public v0.
 
@@ -22,6 +22,8 @@ A strength and hypertrophy training app that grew out of my own workouts. I buil
 TypeScript, Next.js, Fastify, PostgreSQL, Docker
 
 [Try GymTrack](https://app.gymtrack.ch) · [Code and architecture](https://github.com/haagjjan/gym-track)
+
+Happy to walk through the code or architecture on request.
 
 ### Tab-List
 
